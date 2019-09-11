@@ -14,6 +14,7 @@ import { UsuarioEditarComponent } from './components/usuario/usuario-editar.comp
 import { UsuarioDetalleComponent } from './components/usuario/usuario-detalle.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
