@@ -31,9 +31,11 @@ export class DonaComponent {
   }
   public numeros_random() {
     this.doughnutChartData = [
+      [
       Math.round(Math.random() * 100),
       Math.round(Math.random() * 100),
       Math.round(Math.random() * 100)
+      ]
     ]
 
   }
